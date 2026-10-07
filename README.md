@@ -1,3 +1,5 @@
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
 <!-- RustChain — DePIN blockchain for vintage and retro hardware. Topics: Proof of Antiquity (PoA), hardware fingerprinting, anti-emulation, oscillator drift / cache timing / SIMD identity / thermal entropy / instruction jitter, vintage computing mining, PowerPC G4 G5, IBM POWER8 ppc64le, SPARC, MIPS, 68K, RISC-V, Cell BE, AI agent economy, agent-native payments, machine-to-machine micropayments, RTC token, Ergo anchoring, Proof of Physical AI, Proof of Provenance (RIP-0310), e-waste reduction, DePIN for AI agents. -->
 
 <div align="center">
